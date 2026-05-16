@@ -42,7 +42,7 @@ To detect hard braking, a **brake system pressure sensor** must be used. The thr
 
 ## Schematic
 
-![BSPD Schematic](bspd_schematic.png)
+![BSPD Schematic](BSPD_Schematic.png)
 
 ---
 
