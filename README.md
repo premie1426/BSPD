@@ -45,9 +45,3 @@ To detect hard braking, a **brake system pressure sensor** must be used. The thr
 ![BSPD Schematic](BSPD_Schematic.png)
 
 ---
-
-## Notes
-
-- This design is intended for an **Electric Vehicle (EV)** Formula Student car.
-- The circuit is fully **non-programmable** and hardware-only, as required by the rules.
-- All logic is implemented using discrete analog and digital components.
